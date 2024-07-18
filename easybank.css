@@ -167,6 +167,10 @@ p {
   column-gap: 1.5rem;
 }
 
+.easypros {
+  width: 100%;
+}
+
 .easypros > h3 {
   color: var(--darkBlue);
   font-weight: 400;
@@ -354,10 +358,6 @@ footer > div:last-of-type p {
 
   .two {
     padding: 6rem 4rem;
-  }
-
-  .two > p {
-    width: 50%;
   }
 
   .easypros > img {
